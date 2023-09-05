@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1676917753866",
+    "name": "活动主题1",
+    "desc": "备注1",
+    "poster": "http://localhost:3000/tmp/qicai_1676917753883.png"
+  },
+  {
+    "name": "qrCode_0.png",
+    "desc": "qrCode_0.png",
+    "poster": "http://localhost:3000/tmp/qrCode_0_1676918334605.png"
+  },
+  {
+    "name": "qrCode_1.png",
+    "desc": "qrCode_1.png",
+    "poster": "http://localhost:3000/tmp/qrCode_1_1676918335941.png"
+  }
+]
